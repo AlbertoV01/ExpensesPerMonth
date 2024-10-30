@@ -18,6 +18,8 @@
 );
 </p>
 
+![Mi Imagen](image/imagen_ejemplo.png)
+
 ###
 
 ###
